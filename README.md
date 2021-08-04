@@ -5,9 +5,13 @@ Using Visual Studio Code and Google Chrome for coding.
 Install the following extensions on VS Code:
 <br>
 -> Bracket Pair Colorizer
+<br>
 -> Live Server
+<br>
 -> Material Icon Theme
+<br>
 -> Omni Theme
+<br>
 -> Prettier (Code formatter)
 
 Neste projeto foram utilizadas as seguintes tecnologias:
