@@ -3,6 +3,7 @@
 Using Visual Studio Code and Google Chrome for coding.
 
 Install the following extensions on VS Code:
+<br>
 -> Bracket Pair Colorizer
 -> Live Server
 -> Material Icon Theme
