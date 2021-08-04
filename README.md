@@ -5,7 +5,6 @@
 Using Visual Studio Code and Google Chrome for coding.
 
 # Install the following extensions on VS Code:
-<br>
 -> Bracket Pair Colorizer
 <br>
 -> Live Server
@@ -17,7 +16,6 @@ Using Visual Studio Code and Google Chrome for coding.
 -> Prettier (Code formatter)
 
 # Neste projeto foram utilizadas as seguintes tecnologias:
-<br>
 -> HTML
 <br>
 -> CSS
@@ -25,7 +23,6 @@ Using Visual Studio Code and Google Chrome for coding.
 -> JavaScript
 
 # Foram utilizadas as seguintes bibliotecas:
-<br>
 -> Google Fonts
 <br>
 -> SwipeJS
@@ -33,7 +30,6 @@ Using Visual Studio Code and Google Chrome for coding.
 -> ScrollRevel
 
 # Foram utilizados os seguintes utilitários:
-<br>
 -> randomuser.me
 <br>
 -> IconMoon
