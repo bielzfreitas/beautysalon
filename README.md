@@ -1,6 +1,6 @@
 # beautysalon
 
-# Using Visual Studio Code and Google Chrome for coding.
+Using Visual Studio Code and Google Chrome for coding.
 
 # Install the following extensions on VS Code:
 <br>
